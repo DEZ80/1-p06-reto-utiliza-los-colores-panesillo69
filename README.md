@@ -30,5 +30,5 @@ PC: 4000
 # IMAGENES
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 1](reto6_1.png)
-![Actividad 2](capuracian.png)
-![Actividad 2](capuraamarillo.png)
+![Actividad 2](capturacian.png)
+![Actividad 2](capturaamarillo.png)
